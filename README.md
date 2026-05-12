@@ -2,7 +2,7 @@
 Trabajo de Fin de Grado de Ingeniería Informática en la Universidad Nebrija. 
 
 ## Descripción breve:
-Análisis de curvas del telescopio TESS con el fin de detectar eventos astrofísicos de interes mediante el uso de métodos  matemáticos, aprendizaje automático no supervisado y clustering.
+Análisis de curvas de luz del telescopio TESS con el fin de detectar eventos astrofísicos de interes mediante el uso de métodos  matemáticos, aprendizaje automático no supervisado y clustering.
 
 ## Fases principales:
 - Descarga de archivos FITS
