@@ -23,6 +23,6 @@ Análisis de curvas del telescopio TESS con el fin de detectar eventos astrofís
 - Lightkurve
 
 ## Archivos:
-- tesscurl_sector_10_lc.sh: archivo descargado de MAST utilizado para obtener las curvas de luz del sector 10 en formato FITS.
-- Análisis Curvas de Luz TESS.ipynb: Notebook utilizado para desarrollar el código donde se muestran resultados. Las celdas de visualización de las gráficas de los clusters y del dataframe de periódicos no están ejecutados.
-- Análisis Curvas de Luz TESS.py: Archivo ejecutable del código del Notebook.
+- `tesscurl_sector_10_lc.sh`: archivo descargado de MAST utilizado para obtener las curvas de luz del sector 10 en formato FITS.
+- `Análisis Curvas de Luz TESS.ipynb`: Notebook utilizado para desarrollar el código donde se muestran resultados. Las celdas de visualización de las gráficas de los clusters y del dataframe de periódicos no están ejecutados.
+- `Análisis Curvas de Luz TESS.py`: Archivo ejecutable del código del Notebook.
