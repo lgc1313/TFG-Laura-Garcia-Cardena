@@ -9,7 +9,7 @@ Análisis de curvas de luz del telescopio TESS con el fin de detectar eventos as
 - Preprocesado y limpieza de las curvas
 - Detección de periodicidad con Box Least Squares y Lomb-Scargle
 - Detección de anomalías no periódicas con Isolation Forest
-- Agregupación eventos  no periódicos mediante clustering
+- Agrupación de eventos  no periódicos mediante clustering
 - Visualización de resultados
 
 ## Dependencias necesarias:
